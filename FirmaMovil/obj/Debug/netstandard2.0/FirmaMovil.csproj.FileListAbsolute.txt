@@ -1,0 +1,17 @@
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\FirmaMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\Views\ListaFirmasPage.xaml.g.cs
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\Views\PrincipalPage.xaml.g.cs
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\Views\SignatureSample.xaml.g.cs
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\FirmaMovil.AssemblyInfoInputs.cache
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\FirmaMovil.AssemblyInfo.cs
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\FirmaMovil.csproj.CoreCompileInputs.cache
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\bin\Debug\netstandard2.0\FirmaMovil.deps.json
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\bin\Debug\netstandard2.0\FirmaMovil.dll
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\bin\Debug\netstandard2.0\ref\FirmaMovil.dll
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\bin\Debug\netstandard2.0\FirmaMovil.pdb
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\FirmaMovil.dll
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\ref\FirmaMovil.dll
+C:\Users\50432\Desktop\PM_IIPARCIAL\FirmaMovil\FirmaMovil\obj\Debug\netstandard2.0\FirmaMovil.pdb
